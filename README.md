@@ -1,4 +1,4 @@
-# Azure AI containers — demo videos
+# Azure AI containers - demo videos
 
 This repository contains short **demo videos** showcasing **Azure AI** scenarios (including Azure AI Document Intelligence and translation demos), intended for learning, presentations, and quick walkthroughs.
 
